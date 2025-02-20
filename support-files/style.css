@@ -1,0 +1,32 @@
+body {background-color:#ffffff;color:#333333;font-family:Verdana, Arial,Helvetica;margin:0 0 0;}
+td {font-family:Tahoma, Verdana, Tahoma, Verdana, Arial, Helvetica;font-size:11px;font-weight:normal;color:#333333;}
+.b {font-family:Tahoma, Verdana, Tahoma, Verdana, Arial, Helvetica;font-size:11px;font-weight:bold;color:#333333;}
+.w {font-family:Tahoma, Verdana, Arial, Helvetica;font-size:11px;font-weight:normal;color:#ffffff;}
+.bw {font-family:Tahoma, Verdana, Arial, Helvetica;font-size:11px;font-weight:bold;color:#ffffff;}
+
+.price {font-family:Tahoma, Verdana, Arial, Helvetica;font-size:11px;font-weight:bold;color:#FF6300;}
+
+.footer {font-family:Tahoma, Verdana, Arial, Helvetica;font-size:10px;font-weight:normal;color:#333333;}
+
+<!-- -- link -- -->
+a:link, a:visited {color:#333333;text-decoration:none;}
+a:active {color:#333333;text-decoration:none;}
+a:hover {color:#B00115;text-decoration:none;}
+
+a.w:link, a.w:visited {color:#FFFFFF;text-decoration:none;}
+a.w:active {color:#FFFFFF;text-decoration:none;}
+a.w:hover {color:#FFFFFF;text-decoration:underline;}
+
+a.orange:link, a.orange:visited {color:#B00115;text-decoration:none;}
+a.orange:active {color:#B00115;text-decoration:none;}
+a.orange:hover {color:#B00115;text-decoration:underline;}
+
+a.n:link, a.n:visited {color:#333333;text-decoration:none;}
+a.n:active {color:#333333;text-decoration:none;}
+a.n:hover {color:#333333;text-decoration:underline;}
+
+<!--  -- form -- -->
+input.text {font-family:Tahoma, Verdana, Arial, Helvetica;font-size:11px;font-weight:normal;color:#333333;height:19px;}
+input.button {font-family:Tahoma, Verdana, Arial, Helvetica;font-size:11px;background-color:#E8E8E8;font-weight:normal;color:#333333;height:19px;}
+select {font-family:Tahoma, Verdana, Arial, Helvetica;font-size:11px;font-weight:normal;color:#333333;height:19px;}
+textarea {font-family:Tahoma, Verdana, Arial, Helvetica;font-size:11px;font-weight:normal;color:#333333;}
